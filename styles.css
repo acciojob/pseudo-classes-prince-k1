@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+html{
+	rgb(135, 206, 235);
+}
 body{
 	background-color: rgb(135, 206, 235);
 }
